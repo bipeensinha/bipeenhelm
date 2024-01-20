@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bipeenhelm-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0 dev
+    created: "2024-01-20T12:49:03.4908351+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 704678a2984510d8827af07470f8f6141de65bd23b7443f89cd21ffb5c81eb43
+    name: bipeenhelm-chart
+    type: application
+    urls:
+    - bipeensinha.github.io/bipeenhelm/charts/bipeenhelm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-20T12:49:03.4908351+05:30"
