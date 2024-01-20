@@ -1,4 +1,4 @@
 webapp:
   noofreplica: 4
 
-dockerRepo: "richardchesterwood"
+dockerrepo: "richardchesterwood"
