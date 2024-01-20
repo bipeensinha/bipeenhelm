@@ -3,12 +3,23 @@ entries:
   bipeenhelm-chart:
   - apiVersion: v2
     appVersion: 0.1.0 dev
-    created: "2024-01-20T12:49:03.4908351+05:30"
+    created: "2024-01-20T19:43:08.8913637+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 44957d9acbd1f435df6e1cb5eb8244dbac3c35ce9f83b037652eb9db28a337b5
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: bipeenhelm-chart
+    type: application
+    urls:
+    - https://bipeensinha.github.io/bipeenhelm/bipeenhelm-chart-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 0.1.0 dev
+    created: "2024-01-20T19:43:08.8919069+05:30"
     description: A Helm chart for Kubernetes
     digest: 704678a2984510d8827af07470f8f6141de65bd23b7443f89cd21ffb5c81eb43
     name: bipeenhelm-chart
     type: application
     urls:
-    - bipeensinha.github.io/bipeenhelm/charts/bipeenhelm-chart-0.1.0.tgz
+    - https://bipeensinha.github.io/bipeenhelm/charts/bipeenhelm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-20T12:49:03.4908351+05:30"
+generated: "2024-01-20T19:43:08.8889752+05:30"
