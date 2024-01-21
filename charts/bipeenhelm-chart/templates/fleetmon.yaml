@@ -15,8 +15,8 @@ spec:
       containers:
       - name: webapp
         # Note to deployer - add -dev at the end of here for development version
-        image: {{ .Values.dockerrepo}}/k8s-fleetman-helm-demo
----
+        image: {{ .Values.dockerrepo}}/k8s-fleetman-helm-demo:v1.0.0
+      ---
 apiVersion: v1
 kind: Service
 metadata:
